@@ -1,4 +1,4 @@
-# 📊 Hello, I'm [Your Name] 
+# 📊 Hello, I'm Gowtham Selvamurthy 
 ### Data Analyst | Insights Explorer | Story Teller through Data
 
 <div align="center">
